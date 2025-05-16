@@ -18,15 +18,17 @@ A sleek and modern personal expense tracker web application with a dark theme an
 ---
 
 ## Screenshots
-![1](https://github.com/user-attachments/assets/f3e14c97-a54d-408b-8794-60473f07ab32)
 
-![Splash Screen]("E:\SmartExpence\1.png")  
+![1](https://github.com/user-attachments/assets/a28a70df-1f88-4b2e-a781-9372b64af6f6)
+
 *Glowing MAVERICKS splash screen*
 
-![Login Page]("E:\SmartExpence\2.png")  
+![2](https://github.com/user-attachments/assets/cb8a0400-40b4-4379-b8c5-e27b3d7d081d)
+  
 *Login form*
 
-![Expense Tracker]("E:\SmartExpence\3.png")  
+![Uploading 3.png…]()
+
 *Main expense tracking page*
 
 ---
