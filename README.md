@@ -18,7 +18,8 @@ A sleek and modern personal expense tracker web application with a dark theme an
 
 ## Screenshots
 
-![1](https://github.com/user-attachments/assets/a28a70df-1f88-4b2e-a781-9372b64af6f6)
+![Screenshot 2025-05-16 201639](https://github.com/user-attachments/assets/f13d03d4-6323-41f1-8ab1-b5be2a7330b6)
+
 
 *Glowing MAVERICKS splash screen*
 
