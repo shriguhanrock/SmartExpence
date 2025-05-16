@@ -1,5 +1,4 @@
-# SmartExpence
-# MAVERICKS Expense Tracker
+# SMART EXPENCE TRACKER
 
 A sleek and modern personal expense tracker web application with a dark theme and smooth animations. Built with **HTML**, **CSS**, and **JavaScript**, this app helps users track their expenses efficiently with a simple and clean interface.
 
