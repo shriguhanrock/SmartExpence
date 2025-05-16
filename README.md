@@ -27,7 +27,8 @@ A sleek and modern personal expense tracker web application with a dark theme an
   
 *Login form*
 
-![Uploading 3.png…]()
+![3](https://github.com/user-attachments/assets/baec3ea1-211f-48b2-9ac5-d8935786634d)
+
 
 *Main expense tracking page*
 
